@@ -1,0 +1,4 @@
+/Users/TJC/Desktop/SUNYPOLY/CS450/CS_450_548_Assign04_Files/CMakeFiles/install.dir
+/Users/TJC/Desktop/SUNYPOLY/CS450/CS_450_548_Assign04_Files/CMakeFiles/Assignment04.dir
+/Users/TJC/Desktop/SUNYPOLY/CS450/CS_450_548_Assign04_Files/CMakeFiles/ALL_BUILD.dir
+/Users/TJC/Desktop/SUNYPOLY/CS450/CS_450_548_Assign04_Files/CMakeFiles/ZERO_CHECK.dir
